@@ -13,27 +13,27 @@
 
 @font-face {
   font-family: Swansong;
-  src: url(/fonts/Swansong.otf) format("opentype");
+  src: url(./fonts/Swansong.otf) format("opentype");
 }
 
 @font-face {
   font-family: Array Regular;
-  src: url(/fonts/Array-Regular.otf) format("opentype");
+  src: url(./fonts/Array-Regular.otf) format("opentype");
 }
 
 @font-face {
   font-family: Array Bold;
-  src: url(/fonts/Array-Bold.otf) format("opentype");
+  src: url(./fonts/Array-Bold.otf) format("opentype");
 }
 
 @font-face {
   font-family: CabinetGrotesk;
-  src: url(/fonts/CabinetGrotesk-Variable.ttf) format("truetype");
+  src: url(./fonts/CabinetGrotesk-Variable.ttf) format("truetype");
 }
 
 @font-face {
   font-family: Expose;
-  src: url(/fonts/Expose-Variable.ttf) format("truetype");
+  src: url(./fonts/Expose-Variable.ttf) format("truetype");
 }
 
 :root {
